@@ -24,7 +24,7 @@ public class EmployeeDetails implements EntryPoint {
 
 	@Override
 	public void onModuleLoad() {
-		// TODO Auto-generated method stub
+	System.out.println("Welcome GWT user");
 		
 	}
 	
